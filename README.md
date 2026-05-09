@@ -143,3 +143,23 @@ If the player condition is not met:
 - $TotalSkippedEmission$ increases by $E_{current}$.
 
 ---
+
+## Devnet Deployment
+
+The smart contract has been successfully deployed to Solana Devnet.
+
+**Program ID:**
+
+`iGnCrZPsuWT6oNcha1bHvN9t5ChKWet9YNDGtXSn7oY`
+
+**Deployment Transaction:**
+
+`3HnsC39mpTbbUN4VQwLDtiEqCxjBMMKrjcNxhwmpXdurvUHhVWFubBVempKxMssNodKYFfYtt6JbvGQWRprLMiaL`
+
+**IDL Account:**
+
+`HZ3GX7wrPS26w7PrfpMGxXH3yH6y5eNxk3uPs5n3scJq`
+
+**Network:**
+
+Solana Devnet

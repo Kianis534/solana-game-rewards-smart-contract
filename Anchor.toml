@@ -12,7 +12,7 @@ game_rewards = "iGnCrZPsuWT6oNcha1bHvN9t5ChKWet9YNDGtXSn7oY"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "Devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
